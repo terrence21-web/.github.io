@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+}
+p{
+color: #046;
+font-family: fantasy;
+}
+.citation {
+    background-color: rgb(150, 160, 148);
+    font-family: sans-serif;
+}
+#sky { 
+z-index: 7;
+}
+#RedMoon {
+    position: absolute;
+    left: 90px;
+    top: 200px;
+    height: 500px;
+    z-index: 8;
+}
